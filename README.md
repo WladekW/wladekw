@@ -27,9 +27,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WladekW&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WladekW&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/](https://github-readme-stats.vercel.app/api/top-langs/?username=WladekW&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" target="_blank" rel="noreferrer"> </a> 
-</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=WladekW&icon=0&color=0)](https://visitcount.itsvg.in)
 
