@@ -16,14 +16,14 @@
 ⚡️ Fun fact I am cool
 
 
-##Connect with me:
+## Connect with me:
 <p align="left">
 <a href="https://fb.com/wladyslaw berdzik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wladyslaw berdzik" height="30" width="40" /></a>
 <a href="https://instagram.com/bierdzik władysław" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bierdzik władysław" height="30" width="40" /></a>
 </p>
 
 
-##Languages and Tools:
+## Languages and Tools:
 <p align="left"> 
 <!--   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
