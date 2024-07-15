@@ -26,6 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=WladekW&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WladekW&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WladekW&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=WladekW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WladekW&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact></a>
