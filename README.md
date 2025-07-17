@@ -1,15 +1,9 @@
 
 # Hi 👋, I'm Wladyslaw Berdzik
 
-
-
-
-![Logo](https://github.com/WladekW/wladekw/blob/main/Simply%20the%20best.png)
-
-
 ## 🚀 About Me
 
-🧠 I'm currently learning Python
+🧠 I like to solve interesting problems
 
 📫 You can contact me on Facebook
 
@@ -34,11 +28,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=WladekW&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 ## Languages and Tools:
 <p align="left"> 
-<!--   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -47,6 +40,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<!--   <a href="https://worldoftanks.eu" target="_blank" rel="noreferrer"> <img src="https://github.com/WladekW/wladekw/blob/main/world-of-tanks.png" alt="WofT" width="30" height="40"/> </a> -->
 </p>
 
+ -->
