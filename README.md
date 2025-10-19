@@ -18,8 +18,8 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; gap: 8px;">
-  ![](https://github-readme-stats.vercel.app/api?username=WladekW&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=WladekW&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=WladekW&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=WladekW&theme=dark&hide_border=false)<br/>
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WladekW&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
