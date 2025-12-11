@@ -3,6 +3,7 @@
 # 💫 About Me
 
 **I like FP, but I can’t FP.**
+---
 
 # 💻 Tech Stack
 
@@ -51,13 +52,5 @@
 </div>
 
 ---
-
-### 🤝 Contributors
-
-![](https://github-contributor-stats.vercel.app/api?username=WladekW\&limit=5\&theme=shadow_green\&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=WladekW\&icon=0\&color=3)](https://visitcount.itsvg.in)
 
 </div>
