@@ -1,11 +1,9 @@
 <div align="center">
 
 # 💫 About Me
-<div max-width: 460px;>
 **16 y/o developer.**</br>
 **Interested in programming and building cool thing.**</br>
 **I like FP, but I can’t FP.**</br>
-</div>
 
 ---
 
