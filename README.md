@@ -1,7 +1,8 @@
 <div align="center">
 
 # 💫 About Me
-
+**16 y/o developer.**
+**Interested in programming and building cool thing.**
 **I like FP, but I can’t FP.**
 ---
 
