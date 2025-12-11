@@ -37,12 +37,6 @@
 
 ---
 
-### 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=WladekW\&theme=shadow_green\&no-frame=true\&no-bg=false\&margin-w=4)
-
----
-
 ### 🧠 Quote
 
 <div align="center">
