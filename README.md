@@ -23,12 +23,6 @@
 
 ---
 
-### 📊 Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=WladekW&theme=kanagawa-paper&hide_border=true&border_radius=0)
-
-### 🌌 3D Contrib
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
